@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@tippyjs/react": "^4.2.6",
-    "@vercel/analytics": "^1.1.2",
+    "@vercel/analytics": "^1.2.2",
     "clsx": "^2.1.0",
     "contentlayer": "^0.3.4",
     "date-fns": "^3.3.1",
